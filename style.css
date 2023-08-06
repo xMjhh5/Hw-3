@@ -1,0 +1,37 @@
+.primary-color{
+    background-color: #754ffe;
+   
+}
+
+.primary-c{
+    color: #754ffe;
+}
+
+.btn1-color{
+    background-color: #f1f5f9;
+}
+
+
+.p-s1{
+    padding-bottom: 7.5rem !important;
+    padding-top: 7.5rem !important;
+}
+
+.r-circle{
+    width: 150%;
+    height: 50%;
+    border-radius: 50%;
+    text-align: center;
+}
+
+.f-size{
+    font-size: 12px;
+}
+
+.text-color{
+    color: #7d8a9d;
+}
+:any-link{
+    text-decoration: none;
+    color: black;
+}
